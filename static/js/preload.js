@@ -16,13 +16,13 @@ function getFilePathFromClipboard () {
   }
 }
 
-function isClipboardHasImage () {
-  return !clipboard.readImage().isEmpty()
-}
-
 contextBridge.exposeInMainWorld('apis', {
   doAction: async (arg) => {
     return await ipcRenderer.invoke('main', arg)
+  },
+
+  invoke: async (channel, args) => {
+    return await ipcRenderer.invoke(channel, ...args)
   },
 
   addListener: ipcRenderer.on.bind(ipcRenderer),
@@ -83,13 +83,14 @@ contextBridge.exposeInMainWorld('apis', {
    *
    * @param {string} html html file with embedded state
    */
-  exportPublishAssets (html, customCSSPath, repoPath, assetFilenames) {
+  exportPublishAssets (html, customCSSPath, repoPath, assetFilenames, outputDir) {
     ipcRenderer.invoke(
       'export-publish-assets',
       html,
       customCSSPath,
       repoPath,
-      assetFilenames
+      assetFilenames,
+      outputDir
     )
   },
 
@@ -115,7 +116,7 @@ contextBridge.exposeInMainWorld('apis', {
 
     await fs.promises.mkdir(assetsRoot, { recursive: true })
 
-    from = decodeURIComponent(from || getFilePathFromClipboard())
+    from = from && decodeURIComponent(from || getFilePathFromClipboard())
 
     if (from) {
       // console.debug('copy file: ', from, dest)
@@ -150,8 +151,17 @@ contextBridge.exposeInMainWorld('apis', {
     return await ipcRenderer.invoke('call-application', type, ...args)
   },
 
+  /**
+   * internal
+   * @param type
+   * @param args
+   * @private
+   */
+  async _callMainWin (type, ...args) {
+    return await ipcRenderer.invoke('call-main-win', type, ...args)
+  },
+
   getFilePathFromClipboard,
-  isClipboardHasImage,
 
   setZoomFactor (factor) {
     webFrame.setZoomFactor(factor)
