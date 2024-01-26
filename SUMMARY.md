@@ -8,3 +8,4 @@
   * [🔧 Tools](curations/tools.md)
   * [📔 Blogs](curations/blogs.md)
   * [📃 Posts](curations/posts.md)
+* [What's top of mind](whats-top-of-mind.md)
