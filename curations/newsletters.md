@@ -13,6 +13,6 @@ Newsletter by services:
 
 [Matter](https://hq.getmatter.com/)
 
-[Readwise Feed](https://readwise.io/)
+[Readwise Feed](https://readwise.io/) (Example my highlights: [**📚 Siddish's Favorites**](https://readwise.io/@siddish)**)**
 
 [Readwise Reader](https://read.readwise.io/)
