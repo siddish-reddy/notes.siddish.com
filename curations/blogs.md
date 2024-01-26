@@ -18,3 +18,20 @@ description: of people that inspired in unique ways
 
 </details>
 
+<details>
+
+<summary>Andy Matuschak</summary>
+
+[How to write good prompts: using spaced repetition to create understanding](https://andymatuschak.org/prompts/)
+
+(simply a must read)
+
+[Premature scaling can stunt system iteration](https://notes.andymatuschak.org/About\_these\_notes?stackedNotes=zKKB5ENRahwftH96H7mijiu\&stackedNotes=zRHGYaDyQDBypztBaFYZgtR)
+
+* Your goal is to answer fundamental questions about your system, not making the graphs go up.
+
+there are dozens of good notes by him, this block should've been in [rabbit-holes.md](rabbit-holes.md "mention")
+
+
+
+</details>

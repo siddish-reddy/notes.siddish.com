@@ -4,6 +4,8 @@ description: '❕ Warning: consume intentionally.'
 
 # 🐇 Rabbit holes
 
+[#andy-matuschak](blogs.md#andy-matuschak "mention")Notes
+
 [Fast · Patrick Collison](https://patrickcollison.com/fast)
 
 > "Some examples of people quickly accomplishing ambitious things together."
@@ -16,4 +18,10 @@ description: '❕ Warning: consume intentionally.'
 
 [Rules of thumb, laws, guidelines and principles](https://en.wikipedia.org/wiki/List\_of\_software\_development\_philosophies) in Software Development&#x20;
 
-[Useful/cool github repos I stumbled on](https://github.com/siddish-reddy?tab=stars)
+
+
+Holes I'm digging:
+
+[Expertise P\*rn](https://youtube.com/playlist?list=PLqVGGZu3T3hMRic-8YdZ0FCNK5g1Tx-55\&si=81qTypwVGFdorXlF)
+
+[ Valuable github repos](https://github.com/siddish-reddy?tab=stars)&#x20;
