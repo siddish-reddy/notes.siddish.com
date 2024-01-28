@@ -33,6 +33,10 @@ description: >-
 >
 > \- Clay Johnson
 
+> "Rule of thumb: if memorizing something will likely save me five minutes in the future, into the spaced repetion system it goes. The expected lifetime review time is less than five minutes, i.e., it takes < 5 minutes to learn something... forever."&#x20;
+>
+> \- Micheal Nielsen
+
 > <mark style="background-color:yellow;">"Aut inveniam viam aut faciam"</mark>&#x20;
 >
 > (I shall either find a way or make one.)
