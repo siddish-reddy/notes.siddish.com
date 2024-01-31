@@ -9,7 +9,7 @@ description: >-
 
 ## 1. A**ttack at each abstraction level in the problem workflow context**
 
-and pick the one with most leverage or with easiest distribution
+and intervene the one with most leverage or with easiest distribution
 
 Example: AI Copilots (Research/Discovery)\
 via web app (Elicit)\
