@@ -12,11 +12,11 @@ description: >-
 in the problem workflow context and intervene the one with most leverage or with easiest distribution
 
 Example: AI Copilots (Research/Discovery)\
-via web app (Elicit)\
-via Extension (Memex)\
-via Browser (Arc)\
-via OS (??)\
-via Hardware (Rabbit R1)
+via web app _(ChatGPT, Elicit)_\
+via Extension _(Memex)_\
+via Browser (_Arc_)\
+via OS (_Windows_ _Copilot_)\
+via Hardware (_Rabbit_ _R1_)
 
 ## 2. Scaling the problem up and down
 
