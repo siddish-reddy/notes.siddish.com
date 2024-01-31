@@ -7,9 +7,9 @@ description: >-
 
 # Brainstorming Tricks
 
-## 1. A**ttack at each abstraction level in the problem workflow context**
+## 1. A**ttack at various abstraction levels**
 
-and intervene the one with most leverage or with easiest distribution
+in the problem workflow context and intervene the one with most leverage or with easiest distribution
 
 Example: AI Copilots (Research/Discovery)\
 via web app (Elicit)\
