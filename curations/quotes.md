@@ -67,6 +67,8 @@ description: >-
 >
 > \- H.G. Wells
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 > "Talent hits a target no one else can hit;
 >
 > Genius hits a target no one else can see"
