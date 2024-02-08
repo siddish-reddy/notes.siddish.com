@@ -8,6 +8,8 @@ description: WIP 🚧
 
 This post is still not public friendly, try reading something similar: [AI and the human creativity cycle | mathu's thoughts](https://www.mathurah.com/thoughts/ai-creativity-cycle)
 
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://twitter.com/thesephist">@thesephist</a></p></figcaption></figure>
+
 ## **Copilot Interaction Patterns:**
 
 #### Prevent&#x20;
