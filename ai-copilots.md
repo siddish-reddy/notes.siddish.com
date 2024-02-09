@@ -12,36 +12,73 @@ This post is still not public friendly, try reading something similar: [AI and t
 
 ## **Copilot Interaction Patterns:**
 
-#### Prevent&#x20;
+<details>
 
-mistakes happening keeping 1000+ best practices always in mind
+<summary>Prevent</summary>
 
-> Good Design is unobtrusive.   Products fulfilling a purpose are like tools. They are neither decorative objects nor works of art. Their design should therefore be both neutral and restrained in order to leave room for the user’s self expression.
+Mistakes from happening, by keeping 1000+ best practices always in mind
+
+![](<.gitbook/assets/image (3).png>)
+
+"Good Design is unobtrusive.   Products fulfilling a purpose are like tools. They are neither decorative objects nor works of art. Their design should therefore be both neutral and restrained in order to leave room for the user’s self expression."
 
 But we have to violate this rule if an beginner user is trying to do something stupid.
 
-* These two variants have more than 3 changes, which will make it hard to attribute conversion, shall I split into 6 variants?
 
-#### Educate
 
-(tacit knowledge thats hard to document or even loom )
+Example for Experiment Designers: These two variants have more than 3 differences, which will make it hard to attribute \[impact], shall I split into 6 variants?
 
-*
+</details>
 
-#### Suggest&#x20;
+<details>
 
-(unobtrusive corrective actions from evidence based insights)
+<summary>Educate</summary>
 
-* _(“Don't try to create and analyze at the same time. **They're different processes**.”)_
-* Here are some example templates you can start with
+Tacit knowledge thats hard to document or even record
 
-#### Monitor&#x20;
+<img src=".gitbook/assets/image (5).png" alt="" data-size="original">
 
-(and alert async)
+</details>
 
-*
+<details>
 
-#### Navigate
+<summary>Suggest</summary>
 
-(advanced/complicated UX -> _cmd + k_)
+Unobtrusive corrective actions from evidence based insights
+
+_“Don't try to create and analyze at the same time. **They're different processes**.”_
+
+Example for designers: "Here are some example templates you can start with"
+
+![](<.gitbook/assets/image (6).png>)
+
+</details>
+
+#### &#x20;
+
+<details>
+
+<summary>Monitor</summary>
+
+So we can sleep while AI is always keeping an eye out and alert
+
+![](<.gitbook/assets/image (7).png>)
+
+Ex: Sir, a missile is on its way to us, in 20 seconds
+
+</details>
+
+<details>
+
+<summary>Navigate</summary>
+
+Advanced interfaces and complicated UXes
+
+Example: Chat and edit images, even when you dont know or have vocabulary of editing tools.
+
+![](<.gitbook/assets/image (8).png>)
+
+</details>
+
+####
 
