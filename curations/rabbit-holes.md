@@ -4,7 +4,7 @@ description: '❕ Warning: consume intentionally.'
 
 # 🐇 Rabbit holes
 
-[#andy-matuschak](blogs.md#andy-matuschak "mention")Notes
+[#andy-matuschak](blogs-and-gardens.md#andy-matuschak "mention")Notes
 
 [Fast · Patrick Collison](https://patrickcollison.com/fast) Some examples of people quickly accomplishing ambitious things together.
 

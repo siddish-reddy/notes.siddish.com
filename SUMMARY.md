@@ -6,7 +6,7 @@
   * [📰 Newsletters](curations/newsletters.md)
   * [🖋 Quotes](curations/quotes.md)
   * [🔧 Tools](curations/tools.md)
-  * [📔 Blogs](curations/blogs.md)
+  * [📔 Blogs & Gardens](curations/blogs-and-gardens.md)
   * [📃 Posts](curations/posts.md)
 * [What's top of mind](whats-top-of-mind.md)
 * [Brainstorming Tricks](brainstorming-tricks.md)

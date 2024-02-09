@@ -18,8 +18,8 @@
 [tools.md](tools.md)
 {% endcontent-ref %}
 
-{% content-ref url="blogs.md" %}
-[blogs.md](blogs.md)
+{% content-ref url="blogs-and-gardens.md" %}
+[blogs-and-gardens.md](blogs-and-gardens.md)
 {% endcontent-ref %}
 
 {% content-ref url="posts.md" %}
