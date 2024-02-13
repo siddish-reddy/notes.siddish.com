@@ -4,13 +4,9 @@ description: WIP 🚧
 
 # 🌱 AI Copilots
 
-{% embed url="https://www.cosmos.so/siddish/copilot-vibes" fullWidth="true" %}
+More well written notes: [AI and the human creativity cycle | Mathu's thoughts](https://www.mathurah.com/thoughts/ai-creativity-cycle)
 
-This post is still not public friendly, try reading something similar: [AI and the human creativity cycle | mathu's thoughts](https://www.mathurah.com/thoughts/ai-creativity-cycle)
-
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://twitter.com/thesephist">@thesephist</a></p></figcaption></figure>
-
-## **Copilot Interaction Patterns:**
+## **Copilot Interactions:**
 
 <details>
 
@@ -54,8 +50,6 @@ Example for designers: "Here are some example templates you can start with"
 
 </details>
 
-#### &#x20;
-
 <details>
 
 <summary>Monitor</summary>
@@ -82,3 +76,8 @@ Example: Chat and edit images, even when you dont know or have vocabulary of edi
 
 ####
 
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://twitter.com/thesephist">@thesephist</a></p></figcaption></figure>
+
+
+
+{% embed url="https://www.cosmos.so/siddish/copilot-vibes" fullWidth="true" %}
