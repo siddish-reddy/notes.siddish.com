@@ -10,4 +10,8 @@
   * [📃 Posts](curations/posts.md)
 * [What's top of mind](whats-top-of-mind.md)
 * [Brainstorming Tricks](brainstorming-tricks.md)
-* [🌱 AI Copilots](ai-copilots.md)
+
+## AI
+
+* [🌱 AI Copilots](ai/ai-copilots.md)
+* [ℹ Prompting](ai/prompting.md)

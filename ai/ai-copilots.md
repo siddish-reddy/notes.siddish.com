@@ -14,7 +14,7 @@ More well written notes: [AI and the human creativity cycle | Mathu's thoughts](
 
 Mistakes from happening, by keeping 1000+ best practices always in mind
 
-![](<.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3).png>)
 
 "Good Design is unobtrusive.   Products fulfilling a purpose are like tools. They are neither decorative objects nor works of art. Their design should therefore be both neutral and restrained in order to leave room for the user’s self expression."
 
@@ -32,7 +32,7 @@ Example for Experiment Designers: These two variants have more than 3 difference
 
 Tacit knowledge thats hard to document or even record
 
-<img src=".gitbook/assets/image (5).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (5).png" alt="" data-size="original">
 
 </details>
 
@@ -46,7 +46,7 @@ _“Don't try to create and analyze at the same time. **They're different proces
 
 Example for designers: "Here are some example templates you can start with"
 
-![](<.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6).png>)
 
 </details>
 
@@ -56,7 +56,7 @@ Example for designers: "Here are some example templates you can start with"
 
 So we can sleep while AI is always keeping an eye out and alert
 
-![](<.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7).png>)
 
 Ex: Sir, a missile is on its way to us, in 20 seconds
 
@@ -70,13 +70,13 @@ Advanced interfaces and complicated UXes
 
 Example: Chat and edit images, even when you dont know or have vocabulary of editing tools.
 
-![](<.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8).png>)
 
 </details>
 
 ####
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://twitter.com/thesephist">@thesephist</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://twitter.com/thesephist">@thesephist</a></p></figcaption></figure>
 
 
 
