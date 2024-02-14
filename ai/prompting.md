@@ -10,26 +10,43 @@ description: Tricks and Techniques for Engineer friends
 
 ### **Prompt Workflow:**
 
-1.  **Do 3 scenarios manually**
 
-    Be aware exactly what is going on in your mind, are you maintaining a checklist of things, what are you searching for in the internet, what all are you trying to recall, do you have the urge to write a python script to do this instead? etc
-2.  **Map manual process to AI metaphors:**
 
-    Inner Monologue, Internet Search, Knowledge Base, Code Generation, Image Search.
-3.  **Train the needed skill to AI:**
+**1.  Do 3 scenarios manually**
 
-    Consider your 6th standard cousin (basic logical, cognitive, creative skills, some coding and writing, small attention span) and estimate how much time would it take for them to learn the required skills.
+Be aware exactly what is going on in your mind, are you maintaining a checklist of things, what are you searching for in the internet, what all are you trying to recall, do you have the urge to write a python script to do this instead? etc
 
-    Roughly, if you think you can teach them in 10 minutes, start with zero shot; if it takes couple practise exercises, few shot; If it takes one hour class, GPT-4, if it takes multiple days then fine tuning.
-4.  **Provide the needed knowledge to AI**
 
-    If the needed knowledge is under couple paragraphs, then in the prompt itself. If its more than couple pages, then Knowledge Base (RAG). Is that similar to open book exam, but still you first need to learn, then fine tuning + RAG.
-5.  **Create test scenarios**
 
-    Couple for each rule, couple out of training examples and domains to check its generalisability, couple that violate input format and quality expectations. Ofc couple must work, ideal inputs.
-6.  **Iterate**
+**2.  Map manual process to AI metaphors:**
 
-    Try different models, go from single prompt to multiple, rephrase jobs of each prompt to popular versions, play with different personas for each prompt.
+Inner Monologue, Internet Search, Knowledge Base, Code Generation, Image Search.
+
+
+
+**3.  Train the needed skill to AI:**
+
+Consider your 6th standard cousin (basic logical, cognitive, creative skills, some coding and writing, small attention span) and estimate how much time would it take for them to learn the required skills.
+
+Roughly, if you think you can teach them in 10 minutes, start with zero shot; if it takes couple practise exercises, few shot; If it takes one hour class, GPT-4, if it takes multiple days then fine tuning.
+
+
+
+**4.  Provide the needed knowledge to AI**
+
+If the needed knowledge is under couple paragraphs, then in the prompt itself. If its more than couple pages, then Knowledge Base (RAG). Is that similar to open book exam, but still you first need to learn, then fine tuning + RAG.
+
+
+
+**5.  Create test scenarios**
+
+Couple for each rule, couple out of training examples and domains to check its generalisability, couple that violate input format and quality expectations. Ofc couple must work, ideal inputs.
+
+
+
+**6.  Iterate**
+
+Try different models, go from single prompt to multiple, rephrase jobs of each prompt to popular versions, play with different personas for each prompt.
 
 
 
@@ -41,28 +58,30 @@ TODO
 
 ***
 
-*   **Examples in Few Shot:**
+**Examples in Few Shot:**
 
-    Diverse
+Diverse\
+Easy to Hard Order\
+Cover all strict rules\
+(if you can, give as many less examples as possible, ideal is zero)
 
-    Easy to Hard Order
+**Format in Generation:**
 
-    Cover all strict rules
+Skeleton or Schema in System Instruction\
+Not necessary to provide example unless the schema is not popular.
 
-    (if you can, give as many less examples as possible, ideal is zero)
-*   **Format in Generation:**
+**Text Rephrase:**
 
-    Skeleton or Schema in System Instruction
+Aspects to rephrase\
+What not to ignore\
+What to feel free with
 
-    Not necessary to provide example unless the schema is not popular.
-*   **Text Rephrase:**
+**Chain of Thought**
 
-    Aspects to rephrase
+Do not jump to conclusion and loosely some rationality thinking process/framework like OODA (Observe, Decide, Act). If latency is constraint, then CoT can also be like pseudo code with just keywords.
 
-    What not to ignore
 
-    What to feel free with
-*   **Chain of Thought**
 
-    Do not jump to conclusion and loosely some rationality thinking process/framework like OODA (Observe, Decide, Act). If latency is constraint, then CoT can also be like pseudo code with just keywords.
+Other references to dig into:
+
 * [System Instruction Skeleton](https://mitenmit.github.io/gpt/)
