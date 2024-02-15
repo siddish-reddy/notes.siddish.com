@@ -11,7 +11,8 @@
 * [What's top of mind](whats-top-of-mind.md)
 * [Brainstorming Tricks](brainstorming-tricks.md)
 
-## AI
+## 🔮 AI
 
 * [🌱 AI Copilots](ai/ai-copilots.md)
 * [ℹ Prompting](ai/prompting.md)
+* [🔢 Embeddings](ai/embeddings.md)

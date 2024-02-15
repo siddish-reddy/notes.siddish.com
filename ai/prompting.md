@@ -70,12 +70,6 @@ Do not jump to conclusion and loosely some rationality thinking process/framewor
 
 ***
 
-### Thinking in Embeddings:
-
-Embeddings sound too good to be true, you can find similar items, use in recommendations, find anomalies, help in discovery, all with a single tool.
-
-TODO
-
 
 
 References to dig into:
