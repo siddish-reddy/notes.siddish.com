@@ -18,6 +18,8 @@ Be aware exactly what is going on in your mind, are you maintaining a checklist 
 
 Inner Monologue, Internet Search, Knowledge Base, Code Generation, Image Search.
 
+Prompt Topologies: Line (Chain), Star, Tree
+
 #### **3.  Train the needed skill to AI:**
 
 Consider your 6th standard cousin (basic logical, cognitive, creative skills, some coding and writing, small attention span) and estimate how much time would it take for them to learn the required skills.
