@@ -16,6 +16,8 @@ description: '❕ Warning: consume intentionally.'
 
 [Rules of thumb, laws, guidelines and principles](https://en.wikipedia.org/wiki/List\_of\_software\_development\_philosophies) in Software Development&#x20;
 
+[100+ Prophecies from 8AD to now](https://generative.ink/prophecies/)
+
 
 
 Holes I'm digging:
