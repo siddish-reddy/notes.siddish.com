@@ -28,6 +28,14 @@ Example for Experiment Designers: These two variants have more than 3 difference
 
 <details>
 
+<summary>Anticipate</summary>
+
+
+
+</details>
+
+<details>
+
 <summary>Educate</summary>
 
 Tacit knowledge thats hard to document or even record
