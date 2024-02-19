@@ -30,7 +30,9 @@ Example for Experiment Designers: These two variants have more than 3 difference
 
 <summary>Anticipate</summary>
 
+"Give me relevant product recommendations I wouldn’t have thought of myself."
 
+"Remind me of things I want to know but might not be keeping track of"
 
 </details>
 

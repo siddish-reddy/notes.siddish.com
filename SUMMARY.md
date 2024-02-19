@@ -17,3 +17,4 @@
 * [ℹ Prompting](ai/prompting.md)
 * [🌱 AI Copilots](ai/ai-copilots.md)
 * [🔢 Embeddings](ai/embeddings.md)
+* [🚂 Data Engine](ai/data-engine.md)
