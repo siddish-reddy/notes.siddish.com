@@ -2,7 +2,7 @@
 description: Tricks and Techniques for Engineer friends
 ---
 
-# ℹ Prompting
+# ℹ️ Prompting
 
 > “A large part of the difference between the experienced decision maker and the novice in these situations is <mark style="color:yellow;">not any particular intangible like judgment or intuition.</mark> If one could open the lid, so to speak, and see what was in the head of the experienced decision-maker, one would find that he had at his disposal repertoires of possible actions, that he had checklists of things to think about before he acted; and that he had <mark style="color:yellow;">mechanisms in his mind to evoke these, and bring these to his conscious attention</mark> when the situations for decisions arose.” - Farnam Street
 
@@ -77,3 +77,4 @@ Do not jump to conclusion and loosely some rationality thinking process/framewor
 References to dig into:
 
 * [System Instruction Skeleton](https://mitenmit.github.io/gpt/)
+* [GIthub Copilot Reverse Engineered](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html)
