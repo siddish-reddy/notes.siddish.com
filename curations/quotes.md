@@ -5,7 +5,7 @@ description: >-
   conversation 😂)
 ---
 
-# 🖋 Quotes
+# 🖋️ Quotes
 
 > <mark style="background-color:yellow;">“There are some people if you shoot one idea into the brain, you will get a half an idea out.</mark>&#x20;
 >
@@ -95,6 +95,10 @@ description: >-
 > Human interaction: conflict, argument, debate paves path to true innovation.
 >
 > \- Aravind Ganapathiraju
+
+
+
+> "No matter how cool your interface, it would be better if there were less of it." -- Alan Cooper
 
 
 
