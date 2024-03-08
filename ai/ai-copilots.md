@@ -86,7 +86,7 @@ Example: Chat and edit images, even when you dont know or have vocabulary of edi
 
 ####
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://twitter.com/thesephist">@thesephist</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p><a href="https://twitter.com/thesephist">@thesephist</a></p></figcaption></figure>
 
 
 
