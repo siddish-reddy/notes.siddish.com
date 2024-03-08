@@ -1,14 +1,9 @@
 # Table of contents
 
 * [🌿 Welcome !](README.md)
-* [🍭 Curations](curations/README.md)
-  * [🐇 Rabbit holes](curations/rabbit-holes.md)
-  * [📰 Newsletters](curations/newsletters.md)
-  * [🖋️ Quotes](curations/quotes.md)
-  * [🔧 Tools](curations/tools.md)
-  * [📔 Blogs & Gardens](curations/blogs-and-gardens.md)
-  * [📃 Posts](curations/posts.md)
-  * [🔮 Design for AI](curations/design-for-ai.md)
+* [🍭 Curations](curations.md)
+* [🔮 Design for AI](design-for-ai.md)
+* [🖋️ Quotes](quotes.md)
 
 ## AI
 
@@ -19,6 +14,6 @@
 ***
 
 * [WIP](wip/README.md)
-  * [What's on top of my mind](wip/whats-on-top-of-my-mind.md)
-  * [Brainstorming Tricks](wip/brainstorming-tricks.md)
-  * [🔢 Embeddings](wip/embeddings.md)
+  * [What's on top of my mind](whats-top-of-mind.md)
+  * [Brainstorming Tricks](brainstorming-tricks.md)
+  * [🔢 Embeddings](ai/embeddings.md)

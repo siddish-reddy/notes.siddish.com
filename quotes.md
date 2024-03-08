@@ -25,6 +25,10 @@ description: >-
 >
 > \- Sister Corita
 
+> <mark style="background-color:yellow;">"To achieve great things, two things are needed: a plan and not quite enough time."</mark>
+>
+> – Leonard Bernstein
+
 > <mark style="background-color:yellow;">" We always overestimate the change that will occur in the next two years and underestimate the change that will occur in the next ten. "</mark>
 >
 > **-** J. C. R. Licklider
@@ -67,7 +71,7 @@ description: >-
 >
 > \- H.G. Wells
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 > "Talent hits a target no one else can hit;
 >
