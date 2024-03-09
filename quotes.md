@@ -127,5 +127,7 @@ description: >-
 > “Be conservative in what you do, but liberal in what you accept from others.”\
 > (- from Postel's law)
 
+> “Nothing kills a bad product faster than good advertising. Everyone tries the thing and never buys it again.”   - Bill Bernbach
+
 
 
