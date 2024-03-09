@@ -71,8 +71,6 @@ description: >-
 >
 > \- H.G. Wells
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
-
 > "Talent hits a target no one else can hit;
 >
 > Genius hits a target no one else can see"
@@ -102,11 +100,11 @@ description: >-
 
 
 
-> "No matter how cool your interface, it would be better if there were less of it." -- Alan Cooper
+<figure><img src=".gitbook/assets/image (10).png" alt="" width="375"><figcaption><p>"Were you really expecting to have no more problems at some point in your life?" - Sam Harris' friend</p></figcaption></figure>
 
 
 
-**On Focusing:**
+### **On Focusing:**
 
 > "If there are nine rabits on the ground, if you want to catch one, just focus on one"&#x20;
 >
@@ -117,6 +115,17 @@ description: >-
 > The sun's rays do not burn until you brought to a focus"&#x20;
 >
 > \- Alexander Graham Bell
+
+
+
+### On Tech:
+
+> "No matter how cool your interface, it would be better if there were less of it." -- Alan Cooper
+
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+> “Be conservative in what you do, but liberal in what you accept from others.”\
+> (- from Postel's law)
 
 
 
