@@ -36,6 +36,8 @@ Couple for each rule, couple out of training examples and domains to check its g
 
 #### **6.  Iterate**
 
+"Show your prompt to a friend or colleague and ask them to follow the instructions themselves to see if they can produce the exact result you want." - tip from Anthropic
+
 Try different models, go from single prompt to multiple, rephrase jobs of each prompt to popular versions, play with different personas for each prompt.
 
 
@@ -77,4 +79,7 @@ Do not jump to conclusion and loosely some rationality thinking process/framewor
 References to dig into:
 
 * [System Instruction Skeleton](https://mitenmit.github.io/gpt/)
-* [GIthub Copilot Reverse Engineered](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html)
+* [Github Copilot Reverse Engineered](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html)
+*   Origins from [Knowledge Engineering](https://commonkads.org/introduction/)
+
+    <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
