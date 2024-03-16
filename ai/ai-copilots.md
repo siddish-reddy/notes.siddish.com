@@ -4,15 +4,15 @@ description: WIP 🚧
 
 # 🌱 AI Copilots
 
-More well written notes: [AI and the human creativity cycle | Mathu's thoughts](https://www.mathurah.com/thoughts/ai-creativity-cycle)
-
 ## **Copilot Interactions:**
+
+Scale the best expert-to-human interactions
 
 <details>
 
-<summary>Prevent</summary>
+<summary>Prevent Mistakes</summary>
 
-Mistakes from happening, by keeping 1000+ best practices always in mind
+from happening, by keeping 1000+ best practices always in mind
 
 ![](<../.gitbook/assets/image (3).png>)
 
@@ -28,7 +28,7 @@ Example for Experiment Designers: These two variants have more than 3 difference
 
 <details>
 
-<summary>Anticipate</summary>
+<summary>Anticipate Needs</summary>
 
 "Give me relevant product recommendations I wouldn’t have thought of myself."
 
@@ -38,9 +38,9 @@ Example for Experiment Designers: These two variants have more than 3 difference
 
 <details>
 
-<summary>Educate</summary>
+<summary>Educate Tacit Knowledge</summary>
 
-Tacit knowledge thats hard to document or even record
+thats hard to document or even record
 
 <img src="../.gitbook/assets/image (5).png" alt="" data-size="original">
 
@@ -48,9 +48,9 @@ Tacit knowledge thats hard to document or even record
 
 <details>
 
-<summary>Suggest</summary>
+<summary>Suggest Actions</summary>
 
-Unobtrusive corrective actions from evidence based insights
+Unobtrusive corrective suggestions from insights that are slow to arrive at manualy.
 
 _“Don't try to create and analyze at the same time. **They're different processes**.”_
 
@@ -62,7 +62,7 @@ Example for designers: "Here are some example templates you can start with"
 
 <details>
 
-<summary>Monitor</summary>
+<summary>Monitor Systems</summary>
 
 So we can sleep while AI is always keeping an eye out and alert
 
@@ -74,7 +74,7 @@ Ex: Sir, a missile is on its way to us, in 20 seconds
 
 <details>
 
-<summary>Navigate</summary>
+<summary>Navigate Complexity</summary>
 
 Advanced interfaces and complicated UXes
 
@@ -85,6 +85,8 @@ Example: Chat and edit images, even when you dont know or have vocabulary of edi
 </details>
 
 ####
+
+Other's notes: [AI and the human creativity cycle | Mathu's thoughts](https://www.mathurah.com/thoughts/ai-creativity-cycle)
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p><a href="https://twitter.com/thesephist">@thesephist</a></p></figcaption></figure>
 
