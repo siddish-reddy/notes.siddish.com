@@ -14,6 +14,6 @@
 ***
 
 * [WIP](wip/README.md)
-  * [What's on top of my mind](whats-top-of-mind.md)
   * [Brainstorming Tricks](brainstorming-tricks.md)
+  * [What's on top of my mind](whats-top-of-mind.md)
   * [🔢 Embeddings](ai/embeddings.md)
