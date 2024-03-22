@@ -8,15 +8,33 @@ description: '❕ Warning: consume intentionally.'
 
 ## 🐇 Rabbit holes
 
-[Fast · Patrick Collison](https://patrickcollison.com/fast) Some examples of people quickly accomplishing ambitious things together.
+{% embed url="https://patrickcollison.com/fast" %}
+Some examples of people quickly accomplishing ambitious things together.
+{% endembed %}
 
-[Mathematics in Movies](https://people.math.harvard.edu/\~knill/mathmovies/)
+{% embed url="https://people.math.harvard.edu/~knill/mathmovies/" %}
+🍿🎬
+{% endembed %}
 
-[Rules of thumb, laws, guidelines and principles](https://en.wikipedia.org/wiki/List\_of\_software\_development\_philosophies) in Software Development&#x20;
+{% embed url="https://marianoguerra.org/posts/playing-with-code-programming-adjacent-games/" %}
+🕹️🖥️
+{% endembed %}
 
-[100+ Prophecies from 8AD to now](https://generative.ink/prophecies/)
+{% embed url="https://en.wikipedia.org/wiki/List_of_software_development_philosophies" %}
+Rules of thumb, laws, guidelines and principles in Software Development
+{% endembed %}
 
-Holes I'm digging: [Expertise P\*rn](https://youtube.com/playlist?list=PLqVGGZu3T3hMRic-8YdZ0FCNK5g1Tx-55\&si=81qTypwVGFdorXlF),[ cool github repos](https://github.com/siddish-reddy?tab=stars)
+{% embed url="https://generative.ink/prophecies/" %}
+100+ Prophecies from 8AD to now
+{% endembed %}
+
+Holes I'm digging:&#x20;
+
+{% embed url="https://github.com/siddish-reddy?tab=stars" %}
+cool github repos
+{% endembed %}
+
+[Expertise P\*rn](https://youtube.com/playlist?list=PLqVGGZu3T3hMRic-8YdZ0FCNK5g1Tx-55\&si=81qTypwVGFdorXlF)
 
 ***
 
