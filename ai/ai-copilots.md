@@ -24,6 +24,8 @@ But we have to violate this rule if an beginner user is trying to do something s
 
 Example for Experiment Designers: These two variants have more than 3 differences, which will make it hard to attribute \[impact], shall I split into 6 variants?
 
+A gtm tool we built to prevent bad forms: [AI Form Roast by WorkHack](https://www.producthunt.com/posts/ai-form-roast-by-workhack)
+
 </details>
 
 <details>
