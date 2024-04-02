@@ -12,7 +12,7 @@ description: Tricks and Techniques for Engineer friends
 
 #### **1.  Do 3 scenarios manually**
 
-Be aware exactly what is going on in your mind, are you maintaining a checklist of things, what are you searching for in the internet, what all are you trying to recall, do you have the urge to write a python script to do this instead? are you double checking something, etc
+Be aware exactly what is going on in your mind, are you maintaining a checklist of things, what are you searching for in the internet, what all are you trying to recall, do you have the urge to write a python script to do this instead? are you double checking something, what is the patterns you are going over various inputs, etc
 
 #### **2.  Map manual process to AI metaphors:**
 
