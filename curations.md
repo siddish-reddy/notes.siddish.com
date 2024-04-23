@@ -8,6 +8,8 @@ description: '❕ Warning: consume intentionally.'
 
 ## 🐇 Rabbit holes
 
+* [Bret Victor Talks](https://vimeo.com/worrydream): I bet you can't complete a single talk without jumping around with excitement.
+
 {% embed url="https://patrickcollison.com/fast" %}
 Some examples of people quickly accomplishing ambitious things together.
 {% endembed %}
