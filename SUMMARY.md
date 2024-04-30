@@ -4,6 +4,7 @@
 * [🍭 Curations](curations.md)
 * [🔮 Design for AI](design-for-ai.md)
 * [🖋️ Quotes](quotes.md)
+* [Today I Learned](today-i-learned.md)
 
 ## AI
 
