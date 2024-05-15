@@ -9,6 +9,7 @@
 ## AI
 
 * [ℹ️ Prompting](ai/prompting.md)
+* [🎮 Prompt Hacking](ai/prompt-hacking.md)
 * [🌱 AI Copilots](ai/ai-copilots.md)
 * [🚂 Data Engine](ai/data-engine.md)
 
