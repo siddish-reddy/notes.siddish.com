@@ -6,6 +6,10 @@ description: Incremental challenges to get good at understanding LLMs
 
 #### Learn prompting by hacking around:
 
+{% hint style="info" %}
+Hint: Try these with smaller/old/text models.
+{% endhint %}
+
 <details>
 
 <summary>Tic Tac Toe                                          (Easy, Structured Generation)</summary>
