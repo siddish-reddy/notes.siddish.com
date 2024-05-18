@@ -30,6 +30,10 @@ Rules of thumb, laws, guidelines and principles in Software Development
 100+ Prophecies from 8AD to now
 {% endembed %}
 
+{% embed url="https://roamresearch.com/#/app/srcpublic" %}
+Link dumps by Sarah Constantin
+{% endembed %}
+
 Holes I'm digging:&#x20;
 
 {% embed url="https://github.com/siddish-reddy?tab=stars" %}
