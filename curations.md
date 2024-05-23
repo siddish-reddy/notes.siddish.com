@@ -4,7 +4,7 @@ description: '❕ Warning: consume intentionally.'
 
 # 🍭 Curations
 
-<figure><img src=".gitbook/assets/image (1).png" alt="" width="375"><figcaption><p><a href="https://twitter.com/patriciamou_">@patriciamou_</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption><p><a href="https://twitter.com/patriciamou_">@patriciamou_</a></p></figcaption></figure>
 
 ## 🐇 Rabbit holes
 

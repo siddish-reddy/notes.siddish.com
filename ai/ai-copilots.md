@@ -90,7 +90,7 @@ Example: Chat and edit images, even when you dont know or have vocabulary of edi
 
 Other's notes: [AI and the human creativity cycle | Mathu's thoughts](https://www.mathurah.com/thoughts/ai-creativity-cycle)
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p><a href="https://twitter.com/thesephist">@thesephist</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p><a href="https://twitter.com/thesephist">@thesephist</a></p></figcaption></figure>
 
 
 

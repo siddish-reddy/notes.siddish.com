@@ -122,7 +122,7 @@ description: >-
 
 > "No matter how cool your interface, it would be better if there were less of it." -- Alan Cooper
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 > “Be conservative in what you do, but liberal in what you accept from others.”\
 > (- from Postel's law)

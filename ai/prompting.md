@@ -14,7 +14,7 @@ description: Tricks and Techniques for Engineer friends
 
 Be aware exactly what is going on in your mind, are you maintaining a checklist of things, what are you searching for in the internet, what all are you trying to recall, do you have the urge to write a python script to do this instead? are you double checking something, what is the patterns you are going over various inputs, etc
 
-#### **2.  Map manual process to AI metaphors:**
+#### **2.  Simulate: map manual process to AI metaphors:**
 
 Inner Monologue, Internet Search, Knowledge Base, Code Generation, Image Search.
 
@@ -25,6 +25,8 @@ Prompt Topologies: Line (Chain), Star, Tree
 Consider your 6th standard cousin (basic logical, cognitive, creative skills, some coding and writing, small attention span) and estimate how much time would it take for them to learn the required skills.
 
 Roughly, if you think you can teach them in 10 minutes, start with zero shot; if it takes couple practise exercises, few shot; If it takes one hour class, GPT-4, if it takes multiple days then fine tuning.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>"Become one with the data - Andrej Karpathy"</p></figcaption></figure>
 
 #### **4.  Provide the needed knowledge to AI**
 

@@ -50,5 +50,5 @@ By thesephist:
 
 [AI Solutions as a Feature, Platform and Person](https://university.obvious.in/working-with-features/building-with-ai/map-your-product) by Obvious.in University
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p><a href="https://university.obvious.in/working-with-features/building-with-ai/llm-inputs">https://university.obvious.in/working-with-features/building-with-ai/llm-inputs</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p><a href="https://university.obvious.in/working-with-features/building-with-ai/llm-inputs">https://university.obvious.in/working-with-features/building-with-ai/llm-inputs</a></p></figcaption></figure>
 
