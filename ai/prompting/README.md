@@ -172,11 +172,12 @@ Meta:
 Now explore:
 
 * Look at sensitivity of different prompt/models with [Function Calling Benchmark & Testing](https://github.com/ComposioHQ/Composio-Function-Calling-Benchmark) by Composio.dev
+* Iterating through in-context, RAG and finetuning, synthetic data generation for [Vulnerability Fixing via LLMs by Patched.codes](https://www.patched.codes/blog/the-static-analysis-evaluation-benchmark-measuring-llm-performance-in-fixing-software-vulnerabilities)
+* Carefully designing the context and setting evaluation metric via [Github Copilot Reverse Engineered](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html)
 * [Multi-prompt architecture for synthetic data generation](https://www.syntheticusers.com/science-posts/synthetic-users-system-architecture-the-simplified-version)
 
 <figure><img src="../../.gitbook/assets/image (16).png" alt="" width="375"><figcaption><p>syntheticusers.com</p></figcaption></figure>
 
-* Carefully designing the context and setting evaluation metric via [Github Copilot Reverse Engineered](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html)
 *   Everything is remix, this is also from [Knowledge Engineering](https://commonkads.org/introduction/)
 
     <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
