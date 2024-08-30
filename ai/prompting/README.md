@@ -1,5 +1,5 @@
 ---
-description: Tricks and Techniques for Engineer friends
+description: for Engineer friends
 ---
 
 # ℹ️ Prompting
