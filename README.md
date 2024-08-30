@@ -1,5 +1,5 @@
 ---
-description: This Digital Garden is still wannabe garden, anyways please share feedback
+description: This Digital Garden is always Work In Progress 👷‍♂️
 ---
 
 # 🌿 Welcome !
