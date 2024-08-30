@@ -4,7 +4,7 @@ description: Incremental challenges to get good at understanding LLMs
 
 # 🎮 Prompt Hacking
 
-#### Learn prompting by hacking around:
+#### Get intuition on various prompt techniques by hacking around:
 
 {% hint style="info" %}
 Hint: Try these with smaller/old/text models which show log losses to get the intuition faster.
@@ -23,7 +23,7 @@ Chatgpt free version itself can play tic tac toe. But prompt the bot that wont l
 
 <details>
 
-<summary>Is that a yes or no?                             (Few shot, Inner monologue, Classification, Medium)</summary>
+<summary>Is that a yes or no?                                          (Few shot, Inner monologue, Classification)</summary>
 
 
 
@@ -160,14 +160,14 @@ Internet search: Niche pop cult![](<../.gitbook/assets/image (15).png>)ure, late
 
 ***
 
-WIP
+WIP (dm @siddish\_ if you have any ideas)
 
 ```
 Movie Recommender                       (Planning, Embeddings, HyDE)
 ```
 
 ```
-                                        (Sub-question decomposition) 
+Trip Planning                            (Sub-question decomposition) 
 ```
 
 ```
@@ -175,9 +175,19 @@ Movie Recommender                       (Planning, Embeddings, HyDE)
 ```
 
 ```
-                                               (Agents)
+                                        (Criticism, Retrospection)
 ```
 
 ```
-                                        (Criticism, Retrospection)
+                                        (Self Consistency, Multiple CoTs)
 ```
+
+<pre><code><strong>5x5 Crosswords                             (Backtracking, Tree of Thoughts)
+</strong></code></pre>
+
+```
+Sorting                                   (Refining, Aggregating, Graph of Thoughts)
+```
+
+<pre><code><strong>                                               (Agents)
+</strong></code></pre>
