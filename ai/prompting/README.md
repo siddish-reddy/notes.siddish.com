@@ -26,7 +26,7 @@ Consider your 6th standard cousin (basic logical, cognitive, creative skills, so
 
 Roughly, if you think you can teach them in 10 minutes, start with zero shot; if it takes couple practise exercises, few shot; If it takes one hour class, GPT-4, if it takes multiple days then fine tuning.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>"Become one with the data - Andrej Karpathy"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>"Become one with the data - Andrej Karpathy"</p></figcaption></figure>
 
 #### **4.  Provide the needed knowledge to AI**
 
@@ -46,7 +46,9 @@ Try different models, go from single prompt to multiple, rephrase jobs of each p
 
 ***
 
-### Some tricks and rules
+### Some tricks
+
+Prompt Techniques -> are to hack the attention span/working memory
 
 #### Proactive Correction:
 
@@ -76,12 +78,105 @@ Do not jump to conclusion and loosely some rationality thinking process/framewor
 
 ***
 
+### TODO:
+
+Thinking about Single Prompts
+
+Analogy: an average person with short attention span/working memory and no long term memory
+
+Baseline: direct task, few examples
+
+Indirect task that LLM might be familiar with
+
+Simulating Attention Patterns explicitly: Case study: reversing word
+
+XY Problem\
 
 
-References to dig into:
+**In-context learning vs Fine-tuning learning:**
 
-* [System Instruction Skeleton](https://mitenmit.github.io/gpt/)
-* [Github Copilot Reverse Engineered](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html)
-*   Origins from [Knowledge Engineering](https://commonkads.org/introduction/)
+Teach hard/Rare latent space attention patterns
 
-    <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+Progressively remove CoT/Inner monologue
+
+
+
+**When we will move from single prompt, that does everything**
+
+Latency by Parallelization
+
+Working memory limit
+
+Task global context hurting sub parts
+
+\
+
+
+**When not to split**
+
+When we can’t split the task -> tightly coupled context
+
+What to do when we can’t split, but current sota model is not capable yet
+
+
+
+**What to consider when splitting**
+
+Errors cascading or even compounding
+
+Design to accept inputs flexibly, but output predictably ([robustness](https://arc.net/l/quote/garizcod))
+
+Common prompt topologies (Star, Chain, Tree, 1-1)
+
+**Tools**
+
+Letting Prompts Take Actions
+
+Giving Prompts Long term memory Remembering
+
+Internet Search&#x20;
+
+\
+
+
+**Testing**
+
+Log losses
+
+Lower models, to see what instructions were very hard or over learnt
+
+—-
+
+**Case studies:**
+
+Form Roast Architecture Decisions:
+
+* Zero shot vision prompt as base
+* Separate Prompt for each feedback category
+* Separate prompt to format output, same for all feedback categories
+* Final single prompt that will generate overall summary
+
+Conversations to Distrubutions/Insights Architecture Decisions:
+
+* Pandas tool use to count accurately
+* LLMs to look at the data in sliding windows multiple times
+
+—-----
+
+Meta:
+
+* How to effectively transfer tacit knowledge?
+
+
+
+Now explore:
+
+* Look at sensitivity of different prompt/models with [Function Calling Benchmark & Testing](https://github.com/ComposioHQ/Composio-Function-Calling-Benchmark) by Composio.dev
+* [Multi-prompt architecture for synthetic data generation](https://www.syntheticusers.com/science-posts/synthetic-users-system-architecture-the-simplified-version)
+
+<figure><img src="../../.gitbook/assets/image (16).png" alt="" width="375"><figcaption><p>syntheticusers.com</p></figcaption></figure>
+
+* Carefully designing the context and setting evaluation metric via [Github Copilot Reverse Engineered](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html)
+*   Everything is remix, this is also from [Knowledge Engineering](https://commonkads.org/introduction/)
+
+    <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
