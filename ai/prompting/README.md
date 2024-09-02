@@ -178,6 +178,7 @@ Now explore:
 
 <figure><img src="../../.gitbook/assets/image (16).png" alt="" width="375"><figcaption><p>syntheticusers.com</p></figcaption></figure>
 
+* [Finetuning Data Generation Pipeline](https://x.com/thesephist/status/1828578903314567473/photo/1) for Key Points to Blog in your writing style by @thesephist
 *   Everything is remix, this is also from [Knowledge Engineering](https://commonkads.org/introduction/)
 
     <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
