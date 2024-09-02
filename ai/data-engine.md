@@ -38,5 +38,5 @@ from 6th to 15th minute
 
 {% embed url="https://x.com/georgejrjrjr/status/1729996423457091731?s=20" %}
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://medium.com/swlh/about-the-long-tail-113e98ce8717">https://medium.com/swlh/about-the-long-tail-113e98ce8717</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p><a href="https://medium.com/swlh/about-the-long-tail-113e98ce8717">https://medium.com/swlh/about-the-long-tail-113e98ce8717</a></p></figcaption></figure>
 

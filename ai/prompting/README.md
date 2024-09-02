@@ -26,7 +26,7 @@ Consider your 6th standard cousin (basic logical, cognitive, creative skills, so
 
 Roughly, if you think you can teach them in 10 minutes, start with zero shot; if it takes couple practise exercises, few shot; If it takes one hour class, GPT-4, if it takes multiple days then fine tuning.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>"Become one with the data - Andrej Karpathy"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>"Become one with the data - Andrej Karpathy"</p></figcaption></figure>
 
 #### **4.  Provide the needed knowledge to AI**
 
@@ -179,6 +179,9 @@ Now explore:
 <figure><img src="../../.gitbook/assets/image (16).png" alt="" width="375"><figcaption><p>syntheticusers.com</p></figcaption></figure>
 
 * [Finetuning Data Generation Pipeline](https://x.com/thesephist/status/1828578903314567473/photo/1) for Key Points to Blog in your writing style by @thesephist
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 *   Everything is remix, this is also from [Knowledge Engineering](https://commonkads.org/introduction/)
 
     <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
